@@ -19,5 +19,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'lodash-rails', '>= 3.5.0'
   spec.add_dependency 'underscore-rails', '>= 1.7.0'
   spec.add_dependency 'jquery-rails', '>= 3.0.5'
-  spec.add_dependency 'jquery-ui-rails', '>= 5.0.0'
+  spec.add_dependency 'jquery-ui-rails', '>= 6.0.0'
 end
