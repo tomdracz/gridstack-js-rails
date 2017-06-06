@@ -59,7 +59,7 @@ And restart your server
 By default gridstack-js-rails will include the following javascripts libraries:
 
 - lodash
-- jquery-ui: core, widget, mouse, draggable, and resizable modules
+- jquery-ui: core, widget, mouse, draggable, droppable and resizable modules
 - gridstack.js
 
 Along with the following stylesheets files:
